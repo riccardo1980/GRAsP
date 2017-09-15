@@ -1,4 +1,4 @@
-#Traits Pattern
+# Traits Pattern
 
 ## Resources:
 - [Boost Generic Programming: traits](http://www.boost.org/community/generic_programming.html#traits)
