@@ -1,5 +1,4 @@
-## Patterns and Idioms collection
-
+Available:
 - [Traits Pattern](TraitsPattern/README.md)
  
 
